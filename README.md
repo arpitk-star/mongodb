@@ -1,4 +1,5 @@
 # mongodb
+
 # CRUD_Application_Node
 In this project, we are going to create node CRUD application with express and mongodb.
 
@@ -6,8 +7,10 @@ In this project, we are going to create node CRUD application with express and m
 npm install
 ```
 
-Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
+Then Create config.env file
 That's it. You are ready to go. To execute this project just type
 ```
 npm start
+
+Arpit kumar
 ```
